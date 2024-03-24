@@ -1,0 +1,11 @@
+package com.Sathya.SpringEx1;
+
+public class Pharmacy {
+	private String Phramacyname;
+	private String Location;
+	public void pharInfo()
+	{ 
+		
+	}
+
+}

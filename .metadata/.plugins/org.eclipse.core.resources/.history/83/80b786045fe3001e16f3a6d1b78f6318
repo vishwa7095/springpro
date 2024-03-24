@@ -1,0 +1,13 @@
+package com.Sathya.SpringEx1;
+
+public class Doctor {
+
+
+public void doctor() {
+	System.out.println("bharath");
+	System.out.println("5678");
+}
+	
+	
+
+}

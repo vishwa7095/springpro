@@ -1,0 +1,10 @@
+package com.Sathya.SpringEx1;
+
+public class Pharmacy {
+	public void pharInfo()
+	{
+		System.out.println("saridon,vicks");
+		System.out.println("hyderabad");
+	}
+
+}

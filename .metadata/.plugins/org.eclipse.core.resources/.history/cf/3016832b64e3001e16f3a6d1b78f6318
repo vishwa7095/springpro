@@ -1,0 +1,9 @@
+package com.Sathya.SpringEx2;
+
+public class Person {
+	private HomeLoanServices homeLoanServices;
+	private RealstateServices realstateServices;
+	
+	
+
+} 

@@ -1,0 +1,9 @@
+package collections.ratan;
+
+public class Players {
+	private int playerId;
+	private String playerName;
+	private int Age;
+	private String Team;
+
+}

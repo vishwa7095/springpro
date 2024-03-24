@@ -1,0 +1,22 @@
+package com.Sathya.SpringEx2;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+@Component
+public class Person {
+	private HomeLoanServices homeLoanServices;
+	private RealstateServices realstateServices;
+	@Autowired
+	public Person(HomeLoanServices homeLoanServices, RealstateServices realstateServices) {
+		super();
+		this.homeLoanServices = homeLoanServices;
+		this.realstateServices = realstateServices;
+	}
+	
+	public void details()
+	{
+		homeLoanServices.LoanInfo();
+		realstateServices.Realstate();
+	}
+
+} 

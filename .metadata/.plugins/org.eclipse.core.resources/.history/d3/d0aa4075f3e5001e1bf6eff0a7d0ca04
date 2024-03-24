@@ -1,0 +1,10 @@
+package lombok3;
+
+import lombok.Builder;
+
+@Builder
+public class Employee {
+	private int empId;
+	private String empName;
+	private double empSalary;
+}

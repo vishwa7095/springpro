@@ -1,0 +1,13 @@
+package com.Sathya.SpringEx1;
+
+public class Doctor {
+
+private int id;
+private String name;
+
+ 
+}
+	
+	
+
+}

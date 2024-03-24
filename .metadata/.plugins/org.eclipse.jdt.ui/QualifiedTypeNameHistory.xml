@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sathya.SpringEx.GreetingImpl"/>
+    <fullyQualifiedTypeName name="com.sathya.SpringEx2.Vehicle"/>
+    <fullyQualifiedTypeName name="com.sathya.SpringEx2.Travellers"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.sathya.SpringEx3.GreetingImpl"/>
+    <fullyQualifiedTypeName name="com.sathya.SpringEx3.JavaConfig"/>
+    <fullyQualifiedTypeName name="com.sathya.SpringEx3.Person"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringEx4.MessageServices"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringEx4.EmailServices"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringEx4.JavaCourseService"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringEx4.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringExample4.JavaConfig"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringExample4.JavaCourseServices"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringExample4.EmailServices"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringExample4.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringEx1.Doctor"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringEx1.Pharmacy"/>
+    <fullyQualifiedTypeName name="com.Sathya.SpringEx1.Patient"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Builder"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

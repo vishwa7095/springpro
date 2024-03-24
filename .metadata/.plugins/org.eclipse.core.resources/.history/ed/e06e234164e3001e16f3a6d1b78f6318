@@ -1,0 +1,14 @@
+package com.Sathya.SpringEx2;
+
+public class Person {
+	private HomeLoanServices homeLoanServices;
+	private RealstateServices realstateServices;
+	public Person(HomeLoanServices homeLoanServices, RealstateServices realstateServices) {
+		super();
+		this.homeLoanServices = homeLoanServices;
+		this.realstateServices = realstateServices;
+	}
+	
+	
+
+} 

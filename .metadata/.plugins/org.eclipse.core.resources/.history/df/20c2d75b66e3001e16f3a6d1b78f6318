@@ -1,0 +1,20 @@
+package com.Sathya.SpringEx1;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+
+
+@Configuration
+public class JavaConfig {
+	@Bean
+	Patient patient=new Patient("raju", 21, "bharath","saridon");
+	
+	 
+	
+	
+ 
+
+		
+
+}

@@ -1,0 +1,10 @@
+package com.Sathya.SpringEx2;
+
+public class HomeLoanServices {
+	public void LoanInfo()
+	{
+		System.out.println("loan=50000");
+		System.out.println("interest=1.5");
+	}
+
+}
